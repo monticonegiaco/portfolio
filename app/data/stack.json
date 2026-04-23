@@ -1,0 +1,52 @@
+[
+  {
+    "frontend": [
+      {
+        "name": "HTML",
+        "icon": "html"
+      },
+      {
+        "name": "CSS",
+        "icon": "css"
+      },
+      {
+        "name": "React",
+        "icon": "react"
+      },
+      {
+        "name": "Next.js",
+        "icon": "nextjs"
+      },
+      {
+        "name": "Tailwind",
+        "icon": "tailwind"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "icon": "nodejs"
+      },
+      {
+        "name": "C#",
+        "icon": "csharp"
+      },
+      {
+        "name": ".NET",
+        "icon": ".net"
+      }
+    ],
+    "database": [
+      {
+        "name": "MySQL",
+        "icon": "mysql"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git",
+        "icon": "git"
+      }
+    ]
+  }
+]

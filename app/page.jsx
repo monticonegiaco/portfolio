@@ -1,7 +1,11 @@
 import Stack from "./components/stack";
+import Projects from "./components/projects";
+import Contact from "./components/contact";
 export default function Home() {
   return (
-    <div className="min-h-screen bg-(--background) text-(--foreground)">
+    <div className="min-h-screen section-2 ">
+      {" "}
+      {/*bg-(--background) text-(--foreground) */}
       <section id="hero" className="border-b  p-4">
         <div>Técnico Superior en Computación</div>
         <h1>Hola, soy Giaco Monticone.</h1>
@@ -11,17 +15,19 @@ export default function Home() {
           sistemas.
         </p>
       </section>
-      <section id="stack">
+      <section id="stack" className="section-1">
         <h1>STACK</h1>
         <Stack />
       </section>
-      <section id="projects">
+      <section id="projects" className="section-2">
         <h1>PROJECTS</h1>
+        <Projects />
       </section>
       <section id="about">
         <h1>ABOUT</h1>
       </section>
-      <section id="contact">
+      <section id="contact" className="section-1">
+        <Contact />
         <h1>CONTACT</h1>
       </section>
     </div>

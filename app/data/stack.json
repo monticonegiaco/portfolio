@@ -1,52 +1,12 @@
 [
-  {
-    "frontend": [
-      {
-        "name": "HTML",
-        "icon": "html"
-      },
-      {
-        "name": "CSS",
-        "icon": "css"
-      },
-      {
-        "name": "React",
-        "icon": "react"
-      },
-      {
-        "name": "Next.js",
-        "icon": "nextjs"
-      },
-      {
-        "name": "Tailwind",
-        "icon": "tailwind"
-      }
-    ],
-    "backend": [
-      {
-        "name": "Node.js",
-        "icon": "nodejs"
-      },
-      {
-        "name": "C#",
-        "icon": "csharp"
-      },
-      {
-        "name": ".NET",
-        "icon": ".net"
-      }
-    ],
-    "database": [
-      {
-        "name": "MySQL",
-        "icon": "mysql"
-      }
-    ],
-    "tools": [
-      {
-        "name": "Git",
-        "icon": "git"
-      }
-    ]
-  }
+  { "id": 1, "name": "HTML" },
+  { "id": 2, "name": "CSS" },
+  { "id": 3, "name": "JavaScript" },
+  { "id": 4, "name": "React" },
+  { "id": 5, "name": "Next.js" },
+  { "id": 6, "name": "Tailwind" },
+  { "id": 7, "name": "Node.js" },
+  { "id": 8, "name": "C#" },
+  { "id": 9, "name": ".NET" },
+  { "id": 10, "name": "MySQL" }
 ]
